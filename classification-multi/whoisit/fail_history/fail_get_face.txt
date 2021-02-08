@@ -1,0 +1,1 @@
+/home/gpulab/Dev/vision/classification-multi/whoisit/dataset/test/D/C18 (346).jpg

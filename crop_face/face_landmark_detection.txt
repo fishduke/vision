@@ -1,0 +1,3 @@
+$ python face_landmark_detection.py [랜드마크 모델데이터] [테스트할 이미지 폴더]
+예 >
+$ python face_landmark_detection.py shape_predictor_68_face_landmarks.dat ./
